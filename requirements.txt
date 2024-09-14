@@ -1,0 +1,7 @@
+flask
+redis
+pymongo
+numpy
+sentence-transformers
+faiss-cpu
+requests
